@@ -1,2 +1,1 @@
-google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
-ironsrc.com, 12345678, DIRECT
+google.com, pub-3476287878441587, DIRECT, f08c47fec0942fa0
