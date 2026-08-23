@@ -201,3 +201,10 @@ triplelift.com, 14709, RESELLER, 6c33edb13117fd86
 copper6.com, 766114, RESELLER
 triplelift.com, 14705, RESELLER, 6c33edb13117fd86
 media.net, 8cuuq286l, RESELLER
+pubmatic.com, 95054, RESELLER, 5d62403b186f2ace
+dauup.com, 34222, RESELLER, 4daba13e2b0dfd9
+xandr.com, 17779, RESELLER
+sharethrough.com, 4568, RESELLER, d53b998a7bd4ecd2
+media.net, 8cu675n41, RESELLER
+themediagrid.com, falino, RESELLER, 9fac4a4a87c2a44f
+media.net, 8cuh46n56, RESELLER
