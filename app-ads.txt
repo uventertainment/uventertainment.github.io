@@ -1,4 +1,4 @@
-Google.com, pub-3476287878441587, DIRECT, f08c47fec0942fa0
+google.com, pub-3476287878441587, DIRECT, f08c47fec0942fa0
 ironsrc.com, 665373, DIRECT
 contextweb.com, 558622, RESELLER, 89ff185a4c4e857c
 e-planning.net, 6a7f877127485fdb, RESELLER, c1ba615865ed87b2
